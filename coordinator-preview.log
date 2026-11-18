@@ -1,0 +1,157 @@
+2026-11-18 22:04:19,448 left_house = False
+2026-11-18 22:04:19,449 right_house = False
+2026-11-18 22:04:19,449 church = False
+2026-11-18 22:04:19,450 horizon = True
+2026-11-18 22:04:19,450 sky = True
+2026-11-18 22:04:19,450 Train run started
+2026-11-18 22:04:19,450 Village time: Sun 2026-12-06 17:00
+2026-11-18 22:04:34,466 Train run ended; home sensor=False
+2026-11-18 22:04:49,464 church = True
+2026-11-18 22:04:49,465 sky = False
+2026-11-18 22:04:49,465 Village time: Sun 2026-12-06 18:00
+2026-11-18 22:05:01,014 left_house = True
+2026-11-18 22:05:08,576 right_house = True
+2026-11-18 22:05:19,461 horizon = False
+2026-11-18 22:05:19,462 Train run started
+2026-11-18 22:05:19,462 Village time: Sun 2026-12-06 19:00
+2026-11-18 22:05:34,474 Train run ended; home sensor=False
+2026-11-18 22:05:49,459 Village time: Sun 2026-12-06 20:00
+2026-11-18 22:06:11,540 Rain scene started (no rain audio configured)
+2026-11-18 22:06:11,541 sky = True
+2026-11-18 22:06:11,705 sky = False
+2026-11-18 22:06:14,396 sky = True
+2026-11-18 22:06:14,539 sky = False
+2026-11-18 22:06:15,151 sky = True
+2026-11-18 22:06:15,274 sky = False
+2026-11-18 22:06:15,479 sky = True
+2026-11-18 22:06:15,643 sky = False
+2026-11-18 22:06:17,132 sky = True
+2026-11-18 22:06:17,275 sky = False
+2026-11-18 22:06:19,457 Village time: Sun 2026-12-06 21:00
+2026-11-18 22:06:19,478 Train run started
+2026-11-18 22:06:20,131 sky = True
+2026-11-18 22:06:20,254 sky = False
+2026-11-18 22:06:22,803 sky = True
+2026-11-18 22:06:22,932 sky = False
+2026-11-18 22:06:23,055 sky = True
+2026-11-18 22:06:23,219 sky = False
+2026-11-18 22:06:25,849 sky = True
+2026-11-18 22:06:25,911 sky = False
+2026-11-18 22:06:28,174 sky = True
+2026-11-18 22:06:28,257 sky = False
+2026-11-18 22:06:28,767 sky = True
+2026-11-18 22:06:28,869 sky = False
+2026-11-18 22:06:30,603 sky = True
+2026-11-18 22:06:30,767 sky = False
+2026-11-18 22:06:31,482 sky = True
+2026-11-18 22:06:31,544 sky = False
+2026-11-18 22:06:32,727 sky = True
+2026-11-18 22:06:32,851 sky = False
+2026-11-18 22:06:34,483 sky = True
+2026-11-18 22:06:34,484 Train run ended; home sensor=False
+2026-11-18 22:06:34,586 sky = False
+2026-11-18 22:06:36,544 sky = True
+2026-11-18 22:06:36,606 sky = False
+2026-11-18 22:06:37,014 sky = True
+2026-11-18 22:06:37,157 sky = False
+2026-11-18 22:06:39,950 sky = True
+2026-11-18 22:06:40,061 sky = False
+2026-11-18 22:06:41,652 sky = True
+2026-11-18 22:06:41,775 sky = False
+2026-11-18 22:06:44,568 sky = True
+2026-11-18 22:06:44,630 sky = False
+2026-11-18 22:06:49,461 Village time: Sun 2026-12-06 22:00
+2026-11-18 22:07:19,464 Village time: Sun 2026-12-06 23:00
+2026-11-18 22:07:19,486 Train run started
+2026-11-18 22:07:34,490 Train run ended; home sensor=False
+2026-11-18 22:07:49,457 church = False
+2026-11-18 22:07:49,458 Village time: Mon 2026-12-07 00:00
+2026-11-18 22:07:59,160 Rain scene started (no rain audio configured)
+2026-11-18 22:07:59,161 sky = True
+2026-11-18 22:07:59,264 sky = False
+2026-11-18 22:08:01,995 sky = True
+2026-11-18 22:08:02,159 sky = False
+2026-11-18 22:08:03,301 sky = True
+2026-11-18 22:08:03,445 sky = False
+2026-11-18 22:08:04,343 sky = True
+2026-11-18 22:08:04,489 sky = False
+2026-11-18 22:08:05,346 sky = True
+2026-11-18 22:08:05,428 sky = False
+2026-11-18 22:08:07,223 sky = True
+2026-11-18 22:08:07,325 sky = False
+2026-11-18 22:08:10,139 sky = True
+2026-11-18 22:08:10,282 sky = False
+2026-11-18 22:08:12,431 sky = True
+2026-11-18 22:08:12,533 sky = False
+2026-11-18 22:08:13,207 sky = True
+2026-11-18 22:08:13,351 sky = False
+2026-11-18 22:08:15,634 sky = True
+2026-11-18 22:08:15,745 sky = False
+2026-11-18 22:08:18,436 sky = True
+2026-11-18 22:08:18,559 sky = False
+2026-11-18 22:08:19,192 sky = True
+2026-11-18 22:08:19,315 sky = False
+2026-11-18 22:08:19,459 Village time: Mon 2026-12-07 01:00
+2026-11-18 22:08:19,500 Train run started
+2026-11-18 22:08:20,133 sky = True
+2026-11-18 22:08:20,277 sky = False
+2026-11-18 22:08:21,156 sky = True
+2026-11-18 22:08:21,238 sky = False
+2026-11-18 22:08:21,606 sky = True
+2026-11-18 22:08:21,688 sky = False
+2026-11-18 22:08:23,931 sky = True
+2026-11-18 22:08:24,054 sky = False
+2026-11-18 22:08:26,685 sky = True
+2026-11-18 22:08:26,791 sky = False
+2026-11-18 22:08:34,508 Train run ended; home sensor=False
+2026-11-18 22:08:49,454 Village time: Mon 2026-12-07 02:00
+2026-11-18 22:09:19,457 Village time: Mon 2026-12-07 03:00
+2026-11-18 22:09:19,519 Train run started
+2026-11-18 22:09:34,537 Train run ended; home sensor=False
+2026-11-18 22:09:49,452 Village time: Mon 2026-12-07 04:00
+2026-11-18 22:10:19,466 Village time: Mon 2026-12-07 05:00
+2026-11-18 22:10:19,528 Train run started
+2026-11-18 22:10:20,099 Rain scene started (no rain audio configured)
+2026-11-18 22:10:20,100 sky = True
+2026-11-18 22:10:20,203 sky = False
+2026-11-18 22:10:21,793 sky = True
+2026-11-18 22:10:21,855 sky = False
+2026-11-18 22:10:24,219 sky = True
+2026-11-18 22:10:24,322 sky = False
+2026-11-18 22:10:27,115 sky = True
+2026-11-18 22:10:27,258 sky = False
+2026-11-18 22:10:28,278 sky = True
+2026-11-18 22:10:28,442 sky = False
+2026-11-18 22:10:30,765 sky = True
+2026-11-18 22:10:30,827 sky = False
+2026-11-18 22:10:31,113 sky = True
+2026-11-18 22:10:31,256 sky = False
+2026-11-18 22:10:32,439 sky = True
+2026-11-18 22:10:32,507 sky = False
+2026-11-18 22:10:34,546 Train run ended; home sensor=False
+2026-11-18 22:10:34,812 sky = True
+2026-11-18 22:10:34,894 sky = False
+2026-11-18 22:10:35,485 sky = True
+2026-11-18 22:10:35,588 sky = False
+2026-11-18 22:10:38,299 sky = True
+2026-11-18 22:10:38,442 sky = False
+2026-11-18 22:10:49,465 horizon = True
+2026-11-18 22:10:49,466 Village time: Mon 2026-12-07 06:00
+2026-11-18 22:11:19,459 left_house = False
+2026-11-18 22:11:19,460 right_house = False
+2026-11-18 22:11:19,460 sky = True
+2026-11-18 22:11:19,461 Village time: Mon 2026-12-07 07:00
+2026-11-18 22:11:19,543 Train run started
+2026-11-18 22:11:34,554 Train run ended; home sensor=False
+2026-11-18 22:11:49,462 horizon = False
+2026-11-18 22:11:49,462 Village time: Mon 2026-12-07 08:00
+2026-11-18 22:12:19,454 Village time: Mon 2026-12-07 09:00
+2026-11-18 22:12:19,557 Train run started
+2026-11-18 22:12:33,673 Rain scene started (no rain audio configured)
+2026-11-18 22:12:34,570 Train run ended; home sensor=False
+2026-11-18 22:12:49,461 Village time: Mon 2026-12-07 10:00
+2026-11-18 22:13:19,464 Village time: Mon 2026-12-07 11:00
+2026-11-18 22:13:19,567 Train run started
+2026-11-18 22:13:34,580 Train run ended; home sensor=False
+2026-11-18 22:13:49,450 Village time: Mon 2026-12-07 12:00
+2026-11-18 22:14:19,449 sky = False
